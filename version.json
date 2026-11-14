@@ -1,0 +1,7 @@
+{
+    "version": "1.3.1",
+    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/1.3.1/Clipro-v1.3.1.zip",
+    "sha256": "e1738fb23ff22139b53a917f1562865121ac360b16217ee0a46295666d620d4b",
+    "size": 183185718,
+    "changelog": "• New auto-updater: resumable download, SHA-256 check, backup and automatic rollback\n• HTTPS/SSL fix (bundled certificates) for Clipro and the updater\n• Updates now come from GitHub releases"
+}
