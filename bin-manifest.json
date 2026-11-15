@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "bin_version": "2026.11.15",
+  "min_app": "1.4.2",
+  "units": {
+    "ffmpeg": {
+      "version": "9.0.2",
+      "url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/bin-2026.11.15/ffmpeg.zip",
+      "tree_sha256": "d1f4e4b053a623de28ee14bc00958a9f2b70db67d46b2c7eb06ff4b04710652f",
+      "sha256": "4fc28a873b05b1d9a5135bf389ba84b115ca2373b71ed324a7992030316b11d2",
+      "size": 38876033
+    },
+    "ffprobe": {
+      "version": "9.0.2",
+      "url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/bin-2026.11.15/ffprobe.zip",
+      "tree_sha256": "335437828bd656067ae74beb81d7d007a49ae88c67ed26b3015542b61456fc1b",
+      "sha256": "dad5df27407b10c8b04bbc4039be446afaee3a672067cea7335bb41c960357f4",
+      "size": 38766583
+    },
+    "deno": {
+      "version": "2.9.8",
+      "url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/bin-2026.11.15/deno.zip",
+      "tree_sha256": "0b71496b9c7d687dea77b8f5b220f89e5a6abf7dc3fe33eabc46909fea94b6a7",
+      "sha256": "71e341719ddb89e2dceb84b4f6ea8b51abbef5fd218a2f1d413687b8186b4e5d",
+      "size": 41819916
+    },
+    "aria2c": {
+      "version": "1.37.0",
+      "url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/bin-2026.11.15/aria2c.zip",
+      "tree_sha256": "713f40ba415093b63af0dbc8862c9d46feb02cf736a2fe3b1ccf9862dab5f674",
+      "sha256": "df1db66a68a6aa686737c909d9d9dde55ef2c8831f13cefb097de24a8a384220",
+      "size": 2450156
+    },
+    "exiftool": {
+      "version": "13.63",
+      "url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/bin-2026.11.15/exiftool.zip",
+      "tree_sha256": "7b4c47624da458262d087217e9c8016633b8a51028e4be9e0dc952bc4f0f2628",
+      "sha256": "029b91857096aa0549514716fab08939465e5368f2a9e86364ea3ad897d4fb8d",
+      "size": 11103127
+    }
+  }
+}
