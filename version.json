@@ -1,7 +1,7 @@
 {
-    "version": "1.3.1",
-    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/1.3.1/Clipro-v1.3.1.zip",
-    "sha256": "e1738fb23ff22139b53a917f1562865121ac360b16217ee0a46295666d620d4b",
-    "size": 183185718,
-    "changelog": "• New auto-updater: resumable download, SHA-256 check, backup and automatic rollback\n• HTTPS/SSL fix (bundled certificates) for Clipro and the updater\n• Updates now come from GitHub releases"
+    "version": "1.4.1",
+    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/v1.4.1/Clipro-v1.4.1.zip",
+    "sha256": "e58635f56624d028ef877632358bee96647f86dc29382dc8a9ac5e84f7b3814e",
+    "size": 188568274,
+    "changelog": "• Scrap Now asks \"Start scraping\" first, with an option to start the download automatically\n• Already Downloaded: skips the old videos by itself after 30 seconds and downloads only the new ones\n• Instagram and Facebook: captions are now read for each video\n• YouTube channels scrape faster\n• Cleaner popups with a soft shadow"
 }
