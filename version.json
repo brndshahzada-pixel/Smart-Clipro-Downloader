@@ -1,7 +1,7 @@
 {
-    "version": "1.4.2",
-    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/v1.4.2/Clipro-v1.4.2.zip",
-    "sha256": "03e13db931190135b1b5eecdd45cf593b4d609b349c0b575cc98dab55730d5e2",
-    "size": 188598474,
-    "changelog": "• Clipro now keeps its tools (FFmpeg, FFprobe, Deno, aria2c, ExifTool) up to date by itself at startup\n• Only the tools that changed are downloaded, and every download is checked before it is used\n• If a tool update fails, the previous tools are put back automatically"
+    "version": "1.4.3",
+    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/v1.4.3/Clipro-v1.4.3.zip",
+    "sha256": "eb47222ee760ef2187f2e9051ca1a17719fb91848e0f6922f944e3e75e5578b8",
+    "size": 189179880,
+    "changelog": "• Faster, cleaner start: the main window opens only when your license, GPU/CPU and services are ready\n• New update window with clear progress, and a smoother restart after an update\n• Clipro checks your cookies before Download Now / Start Scraping and tells you if a login has expired\n• License now shows your plan and expiry date, with a new gold badge for Lifetime licenses\n• Download History: generate or regenerate captions (one or many), copy a caption, stop AI captions\n• Download Now retries failed videos, and the queue tells you which videos were skipped\n• Ctrl+F search in the Activities table, and Export CSV can save each profile separately\n• Faster AI caption uploads with GPU acceleration on supported graphics cards\n• Downloads resume by themselves after a network drop\n• Clearer error messages, and better Facebook and Instagram captions"
 }
