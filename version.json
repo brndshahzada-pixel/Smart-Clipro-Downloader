@@ -1,7 +1,7 @@
 {
-    "version": "1.4.3",
-    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/v1.4.3/Clipro-v1.4.3.zip",
-    "sha256": "eb47222ee760ef2187f2e9051ca1a17719fb91848e0f6922f944e3e75e5578b8",
-    "size": 189179880,
-    "changelog": "• Faster, cleaner start: the main window opens only when your license, GPU/CPU and services are ready\n• New update window with clear progress, and a smoother restart after an update\n• Clipro checks your cookies before Download Now / Start Scraping and tells you if a login has expired\n• License now shows your plan and expiry date, with a new gold badge for Lifetime licenses\n• Download History: generate or regenerate captions (one or many), copy a caption, stop AI captions\n• Download Now retries failed videos, and the queue tells you which videos were skipped\n• Ctrl+F search in the Activities table, and Export CSV can save each profile separately\n• Faster AI caption uploads with GPU acceleration on supported graphics cards\n• Downloads resume by themselves after a network drop\n• Clearer error messages, and better Facebook and Instagram captions"
+    "version": "1.4.4",
+    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/v1.4.4/Clipro-v1.4.4.zip",
+    "sha256": "968ec4e843fda44807c42c92e7d858e41bacab189dec75dd770f5802a71340a0",
+    "size": 188725570,
+    "changelog": "• Smoother update: the updater, splash screen and main window never appear on screen together\n• The old Clipro closes fully before the new version is installed, with no duplicate windows\n• New \"Update available\" bell in the main window\n• Redesigned Choose Your Plan window with clearer plans and features\n• New About Clipro card in Settings (hover the ⓘ icon)\n• Aziz Tech branding on the splash screen and the plans window\n• Polished brand shimmer and small UI fixes"
 }
