@@ -1,7 +1,7 @@
 {
-    "version": "1.4.4",
-    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/v1.4.4/Clipro-v1.4.4.zip",
-    "sha256": "968ec4e843fda44807c42c92e7d858e41bacab189dec75dd770f5802a71340a0",
-    "size": 188725570,
-    "changelog": "• Smoother update: the updater, splash screen and main window never appear on screen together\n• The old Clipro closes fully before the new version is installed, with no duplicate windows\n• New \"Update available\" bell in the main window\n• Redesigned Choose Your Plan window with clearer plans and features\n• New About Clipro card in Settings (hover the ⓘ icon)\n• Aziz Tech branding on the splash screen and the plans window\n• Polished brand shimmer and small UI fixes"
+    "version": "1.4.5",
+    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/v1.4.5/Clipro-v1.4.5.zip",
+    "sha256": "6c597b815a2d1cb0f8257e34b6a8df3829a52f550fc5d1b6df54f24cbc8be881",
+    "size": 188728696,
+    "changelog": "• Smooth update progress: the download bar now moves continuously with the real downloaded bytes (no more freezing or sudden jumps)\n• Percentage, downloaded MB, speed and time remaining stay in sync with the bar"
 }
