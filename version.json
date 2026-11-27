@@ -1,7 +1,7 @@
 {
-    "version": "1.4.6",
-    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/v1.4.6/Clipro-v1.4.6.zip",
-    "sha256": "876147d573ea2c747ae7aadd3774b98d158fc6cc596c8cc6e516e2e17a5c0e23",
-    "size": 191696032,
-    "changelog": "• Stronger license protection: the app now accepts only digitally signed license answers from the server (pinned secure connection), so fake or edited license replies are refused\n• YouTube downloads fixed: videos that failed with \"Requested format is not available\" download again (latest yt-dlp, automatic best-quality fallback, always MP4)\n• Smarter download error messages: yt-dlp problems are detected and explained clearly\n• App code is now protected (obfuscated) in the release build"
+    "version": "1.4.7",
+    "download_url": "https://github.com/brndshahzada-pixel/Smart-Clipro-Downloader/releases/download/v1.4.7/Clipro-v1.4.7.zip",
+    "sha256": "18a8f48a26f10353c6a1b49a1d0fa463dc777da903f264fecb0053855a58669d",
+    "size": 191760697,
+    "changelog": "• New: 1 Year Free License Giveaway - unlicensed users can claim a free 365-day Clipro license right inside the app (Full Name required, e-mail optional)\n• The free license is issued and digitally signed by the Clipro license server and activated on this PC automatically\n• Giveaway popup in Light and Dark theme, highlighting Filter-Wise Scraping, AI Captions, Scraping + Downloads and 5 platforms\n• Existing paid licenses, license security and code protection are unchanged"
 }
